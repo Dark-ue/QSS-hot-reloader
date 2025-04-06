@@ -1,0 +1,18 @@
+/* filepath: c:\Users\preet\Desktop\Website\python\QSS-hot-reloader\examples\main.qss */
+
+/* Style for the QLabel */
+QLabel {
+    font-size: 24px;
+    color: #0000ff;
+    font-weight: bold;
+    background-color: lightyellow;
+    border: 2px solid black;
+    padding: 100px;
+    border-radius: 15px;
+    margin: -1px;
+}
+
+/* Style for the QMainWindow */
+QMainWindow {
+    background-color: #ff03ea;
+}
