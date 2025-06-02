@@ -72,3 +72,4 @@ def reload_qss(widget, qss_path):
     except Exception as e:
         print(f"Error starting observer: {e}")
 
+print("Hello World!")
